@@ -1,4 +1,4 @@
-# Hi, I'm tstfully 👋
+# Hi, I'm Tastefully 👋
 
 Indie hacker and solopreneur. I build small, useful things on the internet and give a lot of them away. 🛠️
 
